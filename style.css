@@ -1,0 +1,87 @@
+img{
+    height: 350px;
+    width: 350px;
+}
+div{
+    display: block;
+}
+legend{
+    text-align: center;
+    color: white;
+}
+ul{
+    text-align: center;
+    color: white;
+}
+form{
+    background-color: black;
+}
+.submit{
+    text-align: center;
+    background-color: green;
+    color: white;
+    margin-left: 50%;
+    
+}
+#types{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#ROSE{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#damask{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(231, 135, 202);
+    color: black
+}
+#Lincoln{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(226, 71, 71);
+    color : white
+}
+
+#Peace{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(224, 195, 26);
+    color : rgb(39, 40, 119)
+}
+#Orchid{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#Pink{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(197, 62, 231);
+    color : rgb(18, 131, 121)
+}
+#Boat{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(214, 98, 44);
+    color : white
+}
+#Vanilla{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(27, 151, 83);
+    color : white
+}
+#Iris{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    color : white
+}
